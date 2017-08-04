@@ -5,7 +5,8 @@
 ==================
 ### Changes
 
-* [FEATURE] add an option to collect node labels as host tags
+* [FEATURE] add an option to collect node labels as host tags. See [#614][]
+* [FEATURE] skip cAdvisor metrics if port is set to 0. See [#655][]
 
 1.2.0 / 2017-07-18
 ==================
